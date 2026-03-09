@@ -45,4 +45,5 @@ input: Path to the raw GENECONV output file.
 Citation
 If you use this tool or these findings in your research, please cite our manuscript:
 
-Nagai, K. et al. (2026). Structural Instability and Concerted Evolution in the Mitochondrial Control Region of the Grey-headed Lapwing (Vanellus cinereus) During Range Expansion. Journal of Avian Biology. (In Revision / Corresponding to Manuscript ID: JAV-03626)
+Nagai, K. et al. (2026). Structural Instability and Concerted Evolution in the Mitochondrial Control Region of the Grey-headed Lapwing (Vanellus cinereus) During Range Expansion. Journal of Avian Biology. In press
+
